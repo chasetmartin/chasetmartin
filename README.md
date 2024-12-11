@@ -1,7 +1,7 @@
 <a href="https://chasethomasmartin.com" target="_blank" rel="noreferrer"> <img width="100%" alt="chasemartinbanner" src="https://github.com/chasetmartin/chasetmartin/assets/36861079/73feda99-3295-4572-aad6-1b130e2b0b71"> </a>
 <h3 align="center">A passionate software developer, focused on creative, data-driven storytelling and innovative solutions to current environmental and societal challenges.</h3>
 
-- 🌊 I’m currently working on: [US Flood Forecasting Dashboard](https://flooddashboard.netlify.app/)
+- 🌊 I’m currently working with the New Mexico Water Data Initiative: [Weaver](https://weaver.newmexicowaterdata.org/)
 
 - 🌱 I’m always learning, and right now it's: **React, NextJS, and much more!**
 
@@ -9,11 +9,11 @@
 
 - 🤝 I’m always looking to network and build together!
 
-- I occasionally write an article on: [https://chasethomasmartin.com/blog](https://chasethomasmartin.com/blog)
-
 - 💬 Ask me about **Svelte, SvelteKit, Python, Django** , or just general programming fun!
 
 - 📨 How to reach me **https://www.linkedin.com/in/chase-martin-dev/**
+
+- 💻 Or check out my portolio: [Chase Martin](https://chasethomasmartin.com)
 
 - ⚡ Fun fact **I started coding for a small project in 2019, and I've been learning, building out my skills, and picking up small freelance projects ever since!**
 
