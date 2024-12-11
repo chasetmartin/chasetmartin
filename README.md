@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Svelte, SvelteKit, Python, Django** , or just general programming fun!
 
-- 📨 How to reach me **https://www.linkedin.com/in/chase-martin-dev/**
+- 📨 How to reach me <a href="https://linkedin.com/in/chase-martin-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chase-martin-dev" height="30" width="40" /></a>
 
 - 💻 Or check out my portolio: [Chase Martin](https://chasethomasmartin.com)
 
