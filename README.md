@@ -5,7 +5,7 @@
 </h3>
 
 <h4 align="center">
-  Water Data · Applied AI · Public-Interest Systems
+  💧 Water Data · Applied AI · Public-Interest Systems ⚡️
 </h4>
 
 <p align="center">
