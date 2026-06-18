@@ -1,29 +1,74 @@
-<a href="https://chasethomasmartin.com" target="_blank" rel="noreferrer"> <img width="100%" alt="chasemartinbanner" src="https://github.com/chasetmartin/chasetmartin/assets/36861079/73feda99-3295-4572-aad6-1b130e2b0b71"> </a>
-<h3 align="center">A passionate software developer, focused on creative, data-driven storytelling and innovative solutions to current environmental and societal challenges.</h3>
+<h1 align="center">Chase Martin</h1>
 
-- 🌊 I’m currently working with the New Mexico Water Data Initiative: [Weaver](https://weaver.newmexicowaterdata.org/)
+<h3 align="center">
+  <strong>Software Engineering & Data Science - UC Berkeley MIDS</strong>
+</h3>
 
-- 🌱 I’m always learning, and right now it's: **React, NextJS, and much more!**
+<h4 align="center">
+  Water Data · Applied AI · Public-Interest Systems
+</h4>
 
-- 🦦 I built and am always looking to improve: [River Dipper](https://river.dipper.pro/)
-
-- 🤝 I’m always looking to network and build together!
-
-- 💬 Ask me about **Svelte, SvelteKit, Python, Django** , or just general programming fun!
-
-- 📨 How to reach me <a href="https://linkedin.com/in/chase-martin-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chase-martin-dev" height="30" width="40" /></a>
-
-- 💻 Or check out my portolio: [Chase Martin](https://chasethomasmartin.com)
-
-- ⚡ Fun fact **I started coding for a small project in 2019, and I've been learning, building out my skills, and picking up small freelance projects ever since!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chase-martin-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chase-martin-dev" height="30" width="40" /></a>
+<p align="center">
+  Building data systems that turn complex environmental and civic datasets into usable tools.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://chasethomasmartin.com">Portfolio</a> ·
+  <a href="https://linkedin.com/in/chase-martin-dev">LinkedIn</a> ·
+  <a href="https://github.com/chasetmartin">GitHub</a>
+</p>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chasetmartin&theme=dark" alt="chasetmartin" /></p>
+---
 
+### Featured work
+
+| Project | Focus | Stack |
+|---|---|---|
+| [**Ocotillo**](https://github.com/DataIntegrationGroup/OcotilloUI) | New Mexico Bureau of Geology data management platform | React · Refine.dev · TypeScript · FastAPI  |
+| [**Aqueduct**](https://github.com/DataIntegrationGroup/Aqueduct) | New Mexico Bureau of Geology data pipeline for water data integration | Python · Dagster · GCP |
+| [**Arc Radius**](https://arcradius.org/) | Berkeley MIDS capstone for legislative AI explanations | GraphRAG · Neo4j · LLM evaluation · React Native · FastAPI · AWS |
+
+---
+
+### Technical focus
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Refine.dev-14141F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dagster-4B2E83?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</p>
+
+**Frontend**  
+React · TypeScript · Refine.dev · Svelte · Tailwind CSS · Mapbox GL · ECharts · D3
+
+**Backend + data systems**  
+FastAPI · Django · Node.js · REST APIs · Dagster · PostgreSQL · PostGIS · TimescaleDB
+
+**AI + data science**  
+TensorFlow · PyTorch · Neo4j · GraphRAG · LLM evaluation
+
+**Infrastructure**  
+Docker · GitHub Actions · GCP · AWS
+
+---
+
+### Current interests
+
+Water data infrastructure · environmental decision support · internal data platforms · geospatial UX · grounded AI systems · knowledge graphs & ontologies · public-interest technology
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chasetmartin&theme=dark" alt="GitHub streak stats" />
+</p>
